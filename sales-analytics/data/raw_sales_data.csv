@@ -1,0 +1,4 @@
+order_id,order_date,customer_id,customer_name,city,state,country,product_id,product_name,category,sub_category,unit_price,quantity,discount,payment_method,order_status
+1001,2023-01-05,C001,John Smith,Bangalore,Karnataka,India,P101,Wireless Mouse,Electronics,Accessories,799,2,0.10,UPI,Delivered
+1002,2023-01-06,C002,Anita Rao,Hyderabad,Telangana,India,P102,Laptop Sleeve,Electronics,Accessories,1299,1,0.00,Credit Card,Delivered
+1003,2023-01-07,C003,Rahul Verma,Mumbai,Maharashtra,India,P103,Running Shoes,Fashion,Footwear,2499,1,0.15,Debit Card,Returned
